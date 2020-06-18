@@ -1,9 +1,15 @@
 # B@ngsiri(YESS) 온라인 시험 플랫폼
 
-<p> source by jhyeon(stjhyeon@kakao.com </p>
+<h5> YESS 전공 동아리 신입생 온라인 시험 플랫폼 </h5>
+<p> 코로나19 여파로 비대면 선발 시험을 위한 온라인 플랫폼 구축 </p>
+
+<hr>
+<h5> update log </h5>
+<p> 2020.06.18 11:20 first commit - jhyeon </p>
 
 <hr>
 
-<small> 코로나19 여파로 인한 동아리 신입생 선발 시험이 온라인으로 대체됨에 따라 간단하게 만든 플랫폼. </small><br>
-<small> 로그인, 회원가입, 코드 디버깅(API 사용), 제출(Mailer API 사용) </small><br>
-<small> 코드 가독성이 안좋을 순 있지만 생각나는 대로 기능을 구현한 것이라 개인 참고용 정도로만 보시는 것을 추천 드립니다. </small><br>
+<h5> License </h5>
+<p> https://github.com/PHPMailer/PHPMailer (phpmailer api) </p>
+<p> https://sphere-engine.com/ (sphere engine - demo compiler) </p>
+<p> source by 정동현(stjhyeon@kakao.com), 무단 복제(배포) 및 수정을 금지합니다. </p>
